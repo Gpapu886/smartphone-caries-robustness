@@ -2,7 +2,7 @@
 
 This repository provides analysis scripts and summary results for the study:
 
-**Robustness and clinical triage reliability of smartphone-based deep learning for pediatric dental caries screening under real-world image degradation**
+**CariesRobust: Robustness and Clinical Triage Evaluation of YOLOv8-Based Pediatric Dental Caries Screening Under Smartphone Image Degradation**
 
 ## Overview
 
